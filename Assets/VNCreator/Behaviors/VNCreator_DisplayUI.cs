@@ -62,21 +62,24 @@ namespace VNCreator
                 return;
             }
 
-            switch (base.currentNode.nextNodeMinigame)
-            {
-                case NextNodeMinigame.NONE:
-                    base.NextNode(_choiceId);
-                    StartCoroutine(DisplayCurrentNode());
-                    break;
-                case NextNodeMinigame.CLEANING:
-                    PlayCleaningMinigame();
-                    break;
-                case NextNodeMinigame.SAVING:
-                    PlaySavingMinigame();
-                    break;
-                default:
-                    break;
-            }
+            base.NextNode(_choiceId);
+            StartCoroutine(DisplayCurrentNode());
+
+            // switch (base.currentNode.nextNodeMinigame)
+            // {
+            //     case NextNodeMinigame.NONE:
+            //         base.NextNode(_choiceId);
+            //         StartCoroutine(DisplayCurrentNode());
+            //         break;
+            //     case NextNodeMinigame.CLEANING:
+            //         PlayCleaningMinigame();
+            //         break;
+            //     case NextNodeMinigame.SAVING:
+            //         PlaySavingMinigame();
+            //         break;
+            //     default:
+            //         break;
+            // }
         }
 
         IEnumerator DisplayCurrentNode()

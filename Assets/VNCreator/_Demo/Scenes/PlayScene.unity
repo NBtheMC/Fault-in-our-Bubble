@@ -376,21 +376,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   story: {fileID: 11400000, guid: 6e453dfdc36779946a624c56b0e210e2, type: 2}
-  characterNameTxt: {fileID: 0}
-  dialogueTxt: {fileID: 0}
-  characterImg: {fileID: 0}
-  backgroundImg: {fileID: 0}
+  characterNameTxt: {fileID: 2053690587}
+  dialogueTxt: {fileID: 1236659805}
+  characterImg: {fileID: 1548648291}
+  backgroundImg: {fileID: 1529280022}
   musicSource: {fileID: 0}
   soundEffectSource: {fileID: 0}
-  nextBtn: {fileID: 0}
-  previousBtn: {fileID: 0}
-  saveBtn: {fileID: 0}
-  menuButton: {fileID: 0}
-  choiceBtn1: {fileID: 0}
-  choiceBtn2: {fileID: 0}
-  choiceBtn3: {fileID: 0}
-  endScreen: {fileID: 0}
-  mainMenu: 
+  nextBtn: {fileID: 523550281}
+  previousBtn: {fileID: 460052267}
+  saveBtn: {fileID: 672824052}
+  menuButton: {fileID: 2092157681}
+  choiceBtn1: {fileID: 446084360}
+  choiceBtn2: {fileID: 1897164524}
+  choiceBtn3: {fileID: 1883126466}
+  endScreen: {fileID: 1928461400}
+  mainMenu: Assets/Scenes/Menu.unity
 --- !u!4 &265086993
 Transform:
   m_ObjectHideFlags: 0

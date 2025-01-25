@@ -12,5 +12,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80d55d090c78b6240aa6dccd6042a022, type: 3}
   m_Name: TheBestStory
   m_EditorClassIdentifier: 
-  links: []
-  nodes: []
+  links:
+  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
+    targetGuid: afab5415-dfd2-4d0b-8342-a3776a6fa638
+    portId: 0
+  nodes:
+  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 105.333336
+      y: 208.66667
+      width: 499.33334
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: afab5415-dfd2-4d0b-8342-a3776a6fa638
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 641.3333
+      y: 202.66667
+      width: 498.6667
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
