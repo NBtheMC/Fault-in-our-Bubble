@@ -62,8 +62,21 @@ namespace VNCreator
                 return;
             }
 
-            base.NextNode(_choiceId);
-            StartCoroutine(DisplayCurrentNode());
+            switch (base.currentNode.nextNodeMinigame)
+            {
+                case NextNodeMinigame.NONE:
+                    base.NextNode(_choiceId);
+                    StartCoroutine(DisplayCurrentNode());
+                    break;
+                case NextNodeMinigame.CLEANING:
+                    PlayCleaningMinigame();
+                    break;
+                case NextNodeMinigame.SAVING:
+                    PlaySavingMinigame();
+                    break;
+                default:
+                    break;
+            }
         }
 
         IEnumerator DisplayCurrentNode()
@@ -133,6 +146,16 @@ namespace VNCreator
                     yield return new WaitForSeconds(0.01f/ GameOptions.readSpeed);
                 }
             }
+        }
+
+        void PlayCleaningMinigame()
+        {
+            return;
+        }
+
+        void PlaySavingMinigame()
+        {
+            return;
         }
 
         protected override void Previous()

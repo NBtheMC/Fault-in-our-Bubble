@@ -4,6 +4,13 @@ using UnityEngine;
 
 namespace VNCreator
 {
+    public enum NextNodeMinigame
+    {
+        NONE,
+        CLEANING,
+        SAVING
+    }
+    
     [Serializable]
     public class NodeData
     {
@@ -24,5 +31,7 @@ namespace VNCreator
         {
             guid = Guid.NewGuid().ToString();
         }
+
+        public NextNodeMinigame nextNodeMinigame;
     }
 }

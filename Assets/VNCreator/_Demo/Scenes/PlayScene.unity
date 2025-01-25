@@ -346,6 +346,65 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 223541763}
   m_CullTransparentMesh: 1
+--- !u!1 &265086991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 265086993}
+  - component: {fileID: 265086992}
+  m_Layer: 0
+  m_Name: VNController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &265086992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 265086991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19bffdf8e809ebd439aaf9f444d2ea04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  story: {fileID: 11400000, guid: 6e453dfdc36779946a624c56b0e210e2, type: 2}
+  characterNameTxt: {fileID: 0}
+  dialogueTxt: {fileID: 0}
+  characterImg: {fileID: 0}
+  backgroundImg: {fileID: 0}
+  musicSource: {fileID: 0}
+  soundEffectSource: {fileID: 0}
+  nextBtn: {fileID: 0}
+  previousBtn: {fileID: 0}
+  saveBtn: {fileID: 0}
+  menuButton: {fileID: 0}
+  choiceBtn1: {fileID: 0}
+  choiceBtn2: {fileID: 0}
+  choiceBtn3: {fileID: 0}
+  endScreen: {fileID: 0}
+  mainMenu: 
+--- !u!4 &265086993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 265086991}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 320.686, y: 159.82756, z: -11.926639}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &354882973
 GameObject:
   m_ObjectHideFlags: 0
@@ -947,6 +1006,49 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672824050}
   m_CullTransparentMesh: 1
+--- !u!1 &827682098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 827682100}
+  - component: {fileID: 827682099}
+  m_Layer: 0
+  m_Name: MinigameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &827682099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 827682098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a628832159965946b0b767ff10c5371, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &827682100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 827682098}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 320.686, y: 159.82756, z: -11.926639}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &864056019
 GameObject:
   m_ObjectHideFlags: 0
