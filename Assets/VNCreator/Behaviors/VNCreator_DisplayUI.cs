@@ -32,11 +32,11 @@ namespace VNCreator
         [Scene]
         public string mainMenu;
 
-        public MinigameController minigameController;
+        public MinigamePlayer minigamePlayer;
 
         void Start()
         {
-            Debug.Log("Minigame controller" + minigameController);
+            Debug.Log("Minigame player" + minigamePlayer);
             Debug.Log("Next button" + nextBtn);
             nextBtn.onClick.AddListener(delegate { NextNode(0); });
             if(previousBtn != null)
@@ -73,11 +73,11 @@ namespace VNCreator
                     StartCoroutine(DisplayCurrentNode());
                     break;
                 case NextNodeMinigame.CLEANING:
-                    // minigameController.PlayCleaning();
+                    // minigamePlayer.PlayCleaning();
                     // Debug.Log("Minigame controller" + minigameController);
                     break;
                 case NextNodeMinigame.SAVING:
-                    // minigameController.PlaySaving();
+                    // minigamePlayer.PlaySaving();
                     break;
                 default:
                     break;

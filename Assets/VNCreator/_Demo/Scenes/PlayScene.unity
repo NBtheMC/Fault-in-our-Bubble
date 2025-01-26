@@ -392,7 +392,7 @@ MonoBehaviour:
   choiceBtn3: {fileID: 1883126466}
   endScreen: {fileID: 1928461400}
   mainMenu: Assets/Scenes/menu.unity
-  minigameController: {fileID: 0}
+  minigamePlayer: {fileID: 1644039842}
 --- !u!4 &265086993
 Transform:
   m_ObjectHideFlags: 0
@@ -1971,7 +1971,7 @@ GameObject:
   - component: {fileID: 1644039843}
   - component: {fileID: 1644039842}
   m_Layer: 0
-  m_Name: MinigameController
+  m_Name: MinigamePlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1986,7 +1986,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1644039841}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a628832159965946b0b767ff10c5371, type: 3}
+  m_Script: {fileID: 11500000, guid: c84e491769d55be4da67c2a3a364beac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1644039843
