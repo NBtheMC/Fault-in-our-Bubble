@@ -1325,6 +1325,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CleaningGame
       objectReference: {fileID: 0}
+    - target: {fileID: 2870663224025396129, guid: 53d268622875f6e4f999e1667949c3f6, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6476884537748422892, guid: 53d268622875f6e4f999e1667949c3f6, type: 3}
+      propertyPath: mp
+      value: 
+      objectReference: {fileID: 741778645}
     - target: {fileID: 7335496004895751270, guid: 53d268622875f6e4f999e1667949c3f6, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2072,7 +2080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c84e491769d55be4da67c2a3a364beac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CleaningMinigame: {fileID: 0}
+  CleaningMinigame: {fileID: 1086701521}
   SavingMinigame: {fileID: 1181339763}
   VisualNovel: {fileID: 1184627037}
   ui: {fileID: 265086992}
@@ -2962,7 +2970,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1181339764
 Transform:
   m_ObjectHideFlags: 0

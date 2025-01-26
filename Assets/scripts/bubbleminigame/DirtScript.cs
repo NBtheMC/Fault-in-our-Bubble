@@ -71,7 +71,7 @@ public class DirtScript : MonoBehaviour
     {
         minigameOver = true;
         Destroy(mySponge);
-        Destroy(bgPrefab);
+        Destroy(myBg);
         useSpagetti = true;
         this.transform.parent.gameObject.SetActive(false);
         mp.returnToVN();
