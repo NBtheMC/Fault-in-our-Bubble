@@ -19,8 +19,8 @@ MonoBehaviour:
   nodes:
   - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
+    characterName: Test
+    dialogueText: Test
     backgroundSpr: {fileID: 0}
     startNode: 1
     endNode: 0
@@ -38,8 +38,8 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: afab5415-dfd2-4d0b-8342-a3776a6fa638
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
+    characterName: Test1
+    dialogueText: Test1
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 1
