@@ -19,7 +19,7 @@ public class Vent : MonoBehaviour
     {
         Rigidbody2D mikeRB = mike.GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
 
-        mikeRB.AddForce(0.003f*new Vector2(0,1),ForceMode2D.Impulse);
+        mikeRB.AddForce((1.33f*Time.deltaTime)*new Vector2(0,1),ForceMode2D.Impulse);
     }
 
     private IEnumerator spawnJunk(){
