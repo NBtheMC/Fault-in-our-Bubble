@@ -55,81 +55,60 @@ MonoBehaviour:
   - guid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
     targetGuid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
     portId: 13
-  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
-    targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
-    portId: 14
   - guid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
     targetGuid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
+    portId: 14
+  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
     portId: 15
   - guid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
     targetGuid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
     portId: 16
-  - guid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
-    targetGuid: c761436f-0647-477d-9829-4043c5e66319
-    portId: 17
-  - guid: 17de500a-cea4-4ca4-b86b-3e0c57788fc7
-    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 18
-  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 19
-  - guid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    targetGuid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
-    portId: 20
-  - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
-    targetGuid: 354baf9d-034a-450f-a364-3cbbe4fc1782
-    portId: 21
-  - guid: 354baf9d-034a-450f-a364-3cbbe4fc1782
-    targetGuid: ef25d013-4492-42d6-a43e-a09ca8a63b77
-    portId: 22
-  - guid: ef25d013-4492-42d6-a43e-a09ca8a63b77
-    targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    portId: 23
-  - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
-    targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    portId: 24
   - guid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
     targetGuid: 2655e334-4054-4e64-8134-a3b389ce9709
-    portId: 25
+    portId: 17
+  - guid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
+    targetGuid: c761436f-0647-477d-9829-4043c5e66319
+    portId: 18
   - guid: c761436f-0647-477d-9829-4043c5e66319
     targetGuid: 6f42f9ba-6fc1-4ed8-883c-54717521044e
-    portId: 26
+    portId: 19
   - guid: 6f42f9ba-6fc1-4ed8-883c-54717521044e
     targetGuid: 9296edc7-b236-4090-8a90-8f7ec7066088
+    portId: 20
+  - guid: 17de500a-cea4-4ca4-b86b-3e0c57788fc7
+    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
+    portId: 21
+  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
+    targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
+    portId: 22
+  - guid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
+    targetGuid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
+    portId: 23
+  - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
+    targetGuid: 354baf9d-034a-450f-a364-3cbbe4fc1782
+    portId: 24
+  - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
+    targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    portId: 25
+  - guid: 354baf9d-034a-450f-a364-3cbbe4fc1782
+    targetGuid: ef25d013-4492-42d6-a43e-a09ca8a63b77
+    portId: 26
+  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
     portId: 27
-  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
-    targetGuid: 17de500a-cea4-4ca4-b86b-3e0c57788fc7
-    portId: 28
   - guid: 2655e334-4054-4e64-8134-a3b389ce9709
     targetGuid: b0a59ee6-a463-420e-84ee-219f71e3ff58
+    portId: 28
+  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
+    targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
     portId: 29
   - guid: b0a59ee6-a463-420e-84ee-219f71e3ff58
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
     portId: 30
-  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
-    targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    portId: 31
   - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 32
-  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    portId: 33
-  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
-    portId: 34
-  - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
-    targetGuid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
-    portId: 35
-  - guid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
-    targetGuid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
-    portId: 36
-  - guid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
-    targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    portId: 37
-  - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    portId: 38
+    portId: 31
   nodes:
   - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
     characterSpr: {fileID: 0}
@@ -691,46 +670,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: b0a59ee6-a463-420e-84ee-219f71e3ff58
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: "You wanna change me. I don\u2019t know if I wanna be changed\u2026
-      I don\u2019t know if I can be\u2026"
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 14028
-      y: 583
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: No one has ever accepted me before. Not in my 3 minutes on this
-      earth.
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 14028
-      y: 941
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
     characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
     characterName: Me
@@ -863,6 +802,46 @@ MonoBehaviour:
       serializedVersion: 2
       x: 20009
       y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
+    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
+    characterName: Myk
+    dialogueText: No one has ever accepted me before. Not in my 3 minutes on this
+      earth.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14009
+      y: 948
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: b0a59ee6-a463-420e-84ee-219f71e3ff58
+    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
+    characterName: Myk
+    dialogueText: "You wanna change me. I don\u2019t know if I wanna be changed\u2026
+      I don\u2019t know if I can be\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14009
+      y: 640
       width: 499
       height: 308
     soundEffect: {fileID: 0}
