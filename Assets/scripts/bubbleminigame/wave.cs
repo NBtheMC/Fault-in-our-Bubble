@@ -16,13 +16,13 @@ public class wave : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(transform.position.x + dir.x,transform.position.y + dir.y,transform.position.z);
-        transform.localScale = new Vector3(transform.localScale.x + 0.002f,transform.localScale.y + 0.002f,transform.localScale.z);
+        transform.position = new Vector3(transform.position.x + dir.x*(14*Time.deltaTime),transform.position.y + dir.y*(14*Time.deltaTime),transform.position.z);
+        transform.localScale = new Vector3(transform.localScale.x + (4f*Time.deltaTime),transform.localScale.y + (4f*Time.deltaTime),transform.localScale.z);
         
         if (fadingOut){
             SpriteRenderer sr = GetComponent(typeof(SpriteRenderer)) as SpriteRenderer;
 
-            sr.color = new Color(sr.color.r,sr.color.g,sr.color.b,sr.color.a - .05f);
+            sr.color = new Color(sr.color.r,sr.color.g,sr.color.b,sr.color.a - (20*Time.deltaTime));
             if (sr.color.a <= 0){
                 Destroy(gameObject);
             }
