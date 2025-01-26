@@ -55,146 +55,146 @@ MonoBehaviour:
   - guid: 354baf9d-034a-450f-a364-3cbbe4fc1782
     targetGuid: ef25d013-4492-42d6-a43e-a09ca8a63b77
     portId: 13
-  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
+  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
+    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
     portId: 14
   - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
-    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 15
-  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
     targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    portId: 16
-  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
-    portId: 17
+    portId: 15
   - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 18
+    portId: 16
   - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 19
+    portId: 17
   - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
     targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
-    portId: 20
+    portId: 18
   - guid: 90d96313-fa85-408f-8f2a-292579fb8887
     targetGuid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
-    portId: 21
+    portId: 19
   - guid: 90d96313-fa85-408f-8f2a-292579fb8887
     targetGuid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
-    portId: 22
+    portId: 20
   - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
     targetGuid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
-    portId: 23
+    portId: 21
   - guid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
     targetGuid: 538f39ed-6038-4845-a4fb-16280d1e8797
-    portId: 24
+    portId: 22
   - guid: cacafe29-de51-4301-b509-a5151d59e5b7
     targetGuid: 20237973-390f-492c-b724-c900c5b3cf21
-    portId: 25
+    portId: 23
   - guid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
     targetGuid: d331f3ec-fb98-46db-88a3-0da14782d9c5
-    portId: 26
+    portId: 24
   - guid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
     targetGuid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
-    portId: 27
+    portId: 25
   - guid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
     targetGuid: c761436f-0647-477d-9829-4043c5e66319
-    portId: 28
+    portId: 26
   - guid: 2655e334-4054-4e64-8134-a3b389ce9709
     targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    portId: 29
+    portId: 27
   - guid: 2655e334-4054-4e64-8134-a3b389ce9709
     targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 30
+    portId: 28
   - guid: ef25d013-4492-42d6-a43e-a09ca8a63b77
     targetGuid: bb863090-6593-412a-a66a-c3e2e7c8c487
-    portId: 31
+    portId: 29
   - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
     targetGuid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
-    portId: 32
+    portId: 30
   - guid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
     targetGuid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
-    portId: 33
+    portId: 31
   - guid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
     targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    portId: 34
+    portId: 32
   - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
     targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    portId: 35
+    portId: 33
   - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
     targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
-    portId: 36
+    portId: 34
   - guid: e72402da-f6e4-4640-af16-04d37166f3b3
     targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
-    portId: 37
+    portId: 35
   - guid: a44612b9-7515-4c46-a2f7-175719eb663b
     targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
-    portId: 38
+    portId: 36
   - guid: cbc71182-529a-429f-983a-e063d5e16caa
     targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
-    portId: 39
+    portId: 37
   - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
     targetGuid: a1794402-0bff-4def-a421-a53f4c682d78
-    portId: 40
+    portId: 38
   - guid: a1794402-0bff-4def-a421-a53f4c682d78
     targetGuid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
-    portId: 41
+    portId: 39
   - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
     targetGuid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
-    portId: 42
+    portId: 40
   - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
     targetGuid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    portId: 43
-  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    targetGuid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    portId: 44
-  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    targetGuid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    portId: 45
-  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    targetGuid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    portId: 46
-  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    targetGuid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    portId: 47
-  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    targetGuid: cef906f2-e6f0-4307-9476-ac9427bc64a7
-    portId: 48
+    portId: 41
   - guid: b762ec0d-8a8f-48ea-906f-bdec8c8fd5f1
     targetGuid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
-    portId: 49
-  - guid: bb863090-6593-412a-a66a-c3e2e7c8c487
-    targetGuid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
-    portId: 50
-  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
-    targetGuid: 008ae2ea-58c3-480d-8068-00b8f27b6494
-    portId: 51
-  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
-    targetGuid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
-    portId: 52
-  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
-    targetGuid: 27932698-275b-42f3-a54b-0fc8d3caeba5
-    portId: 53
-  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
-    targetGuid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
-    portId: 54
-  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
-    targetGuid: 9c3efc31-611b-4e98-b0c8-b502459bc803
-    portId: 55
-  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
-    targetGuid: 354a94eb-3738-4271-bf05-3bbc914d8d47
-    portId: 56
-  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
-    targetGuid: 11500286-3435-47b0-aebf-2da06b2f2043
-    portId: 57
-  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
-    targetGuid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
-    portId: 58
-  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
-    targetGuid: f3b5eb2d-f0dc-4d4f-bf2f-2e23726d9fcc
-    portId: 59
+    portId: 42
   - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
     targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    portId: 43
+  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
+    portId: 44
+  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
+    targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
+    portId: 45
+  - guid: bb863090-6593-412a-a66a-c3e2e7c8c487
+    targetGuid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
+    portId: 46
+  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
+    targetGuid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    portId: 47
+  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    targetGuid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    portId: 48
+  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    targetGuid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    portId: 49
+  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    targetGuid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    portId: 50
+  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    targetGuid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    portId: 51
+  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    targetGuid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    portId: 52
+  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    targetGuid: 11500286-3435-47b0-aebf-2da06b2f2043
+    portId: 53
+  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
+    targetGuid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    portId: 54
+  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    targetGuid: f3b5eb2d-f0dc-4d4f-bf2f-2e23726d9fcc
+    portId: 55
+  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
+    targetGuid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
+    portId: 56
+  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
+    targetGuid: b64793a0-2b9c-4f58-82bd-798807a4a80a
+    portId: 57
+  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
+    targetGuid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
+    portId: 58
+  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
+    targetGuid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
+    portId: 59
+  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
+    targetGuid: cef906f2-e6f0-4307-9476-ac9427bc64a7
     portId: 60
   nodes:
   - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
@@ -878,86 +878,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: "I\u2019m so sorry. You\u2019ve made me into a whole new bubble.
-      You\u2019ve opened my eyes to the wonders of cleanliness, and for that I will
-      be forever grateful."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 22747.334
-      y: -544
-      width: 499.33203
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: a1794402-0bff-4def-a421-a53f4c682d78
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: "But\u2026 I\u2019ve outgrown you. I need to float onto new pastures.
-      You understand, don\u2019t you?"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 23264
-      y: -545.3333
-      width: 499.33398
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: 
-    dialogueText: You break down into sobs. Myk looks on, sympathetic but distant.
-      Too distant for you to ever touch again. He turns away and begins to leave.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 23786
-      y: -544
-      width: 499.33398
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Me
-    dialogueText: "Myk\u2026 Please\u2026"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 24316
-      y: -544.6666
-      width: 499.33398
-      height: 304.66663
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: cef906f2-e6f0-4307-9476-ac9427bc64a7
     characterSpr: {fileID: 0}
     characterName: 
@@ -1168,7 +1088,7 @@ MonoBehaviour:
       x: 19366
       y: -948
       width: 499.33398
-      height: 305.33337
+      height: 304.6667
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1245,7 +1165,7 @@ MonoBehaviour:
       x: 21440
       y: -947.3333
       width: 499.33398
-      height: 305.3333
+      height: 304.6667
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1265,27 +1185,7 @@ MonoBehaviour:
       x: 21963.334
       y: -951.3333
       width: 499.33203
-      height: 305.3333
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Myk does not look back. His eyes are closed. In the distance you
-      see something zooming his way. He does not notice it.
-    backgroundSpr: {fileID: 21300000, guid: c2584c784d440b94f9cfa4094d436bac, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 24837.334
-      y: -544.6666
-      width: 499.33203
-      height: 304.66663
+      height: 304.6667
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1363,6 +1263,106 @@ MonoBehaviour:
       y: -544.6666
       width: 499.33398
       height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk does not look back. His eyes are closed. In the distance you
+      see something zooming his way. He does not notice it.
+    backgroundSpr: {fileID: 21300000, guid: c2584c784d440b94f9cfa4094d436bac, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24837.334
+      y: -544.6666
+      width: 499.33203
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
+    characterSpr: {fileID: 21300000, guid: 7f7db10b132669e4b884a0a0dfac60ba, type: 3}
+    characterName: Me
+    dialogueText: "Myk\u2026 Please\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24316
+      y: -544.6666
+      width: 499.33398
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
+    characterSpr: {fileID: 21300000, guid: 7f7db10b132669e4b884a0a0dfac60ba, type: 3}
+    characterName: 
+    dialogueText: You break down into sobs. Myk looks on, sympathetic but distant.
+      Too distant for you to ever touch again. He turns away and begins to leave.
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23786
+      y: -544
+      width: 499.33398
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: a1794402-0bff-4def-a421-a53f4c682d78
+    characterSpr: {fileID: 21300000, guid: 7f7db10b132669e4b884a0a0dfac60ba, type: 3}
+    characterName: Myk
+    dialogueText: "But\u2026 I\u2019ve outgrown you. I need to float onto new pastures.
+      You understand, don\u2019t you?"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23264
+      y: -545.3333
+      width: 499.33398
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    characterSpr: {fileID: 21300000, guid: 7f7db10b132669e4b884a0a0dfac60ba, type: 3}
+    characterName: Myk
+    dialogueText: "I\u2019m so sorry. You\u2019ve made me into a whole new bubble.
+      You\u2019ve opened my eyes to the wonders of cleanliness, and for that I will
+      be forever grateful."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22747.334
+      y: -544
+      width: 499.33203
+      height: 304.6667
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
