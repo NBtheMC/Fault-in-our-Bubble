@@ -76,39 +76,72 @@ MonoBehaviour:
   - guid: 6f42f9ba-6fc1-4ed8-883c-54717521044e
     targetGuid: 9296edc7-b236-4090-8a90-8f7ec7066088
     portId: 20
-  - guid: 17de500a-cea4-4ca4-b86b-3e0c57788fc7
-    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 21
-  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 22
   - guid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
     targetGuid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
-    portId: 23
+    portId: 21
   - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
     targetGuid: 354baf9d-034a-450f-a364-3cbbe4fc1782
-    portId: 24
+    portId: 22
   - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
     targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    portId: 25
+    portId: 23
   - guid: 354baf9d-034a-450f-a364-3cbbe4fc1782
     targetGuid: ef25d013-4492-42d6-a43e-a09ca8a63b77
-    portId: 26
+    portId: 24
   - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
     targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    portId: 27
-  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
-    targetGuid: b0a59ee6-a463-420e-84ee-219f71e3ff58
-    portId: 28
-  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
+    portId: 25
+  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
+    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
+    portId: 26
+  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
     targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
+    portId: 27
+  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
+    targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
+    portId: 28
+  - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
+    targetGuid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
     portId: 29
-  - guid: b0a59ee6-a463-420e-84ee-219f71e3ff58
-    targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
+  - guid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
+    targetGuid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
     portId: 30
+  - guid: ef25d013-4492-42d6-a43e-a09ca8a63b77
+    targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    portId: 31
+  - guid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
+    targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
+    portId: 32
+  - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
+    targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    portId: 33
+  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    portId: 34
   - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 31
+    portId: 35
+  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
+    targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
+    portId: 36
+  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
+    targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
+    portId: 37
+  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
+    targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
+    portId: 38
+  - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
+    portId: 39
+  - guid: e72402da-f6e4-4640-af16-04d37166f3b3
+    targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
+    portId: 40
+  - guid: a44612b9-7515-4c46-a2f7-175719eb663b
+    targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
+    portId: 41
+  - guid: cbc71182-529a-429f-983a-e063d5e16caa
+    targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    portId: 42
   nodes:
   - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
     characterSpr: {fileID: 0}
@@ -183,65 +216,6 @@ MonoBehaviour:
       serializedVersion: 2
       x: 2206
       y: 142
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: The Bubble
-    dialogueText: "Watch where you point that thing! I\u2019m allergic to bleach
-      or somethin\u2019. Guess you could call me a dirty bubble."
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - A dirty bubble? I guess I should get back to cleaning.
-    - "Don\u2019t call yourself that! You\u2019re beautiful!"
-    nodePosition:
-      serializedVersion: 2
-      x: 3541
-      y: 142
-      width: 499
-      height: 374
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
-    characterSpr: {fileID: 0}
-    characterName: Test1
-    dialogueText: Test1
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 1
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 4246
-      y: -147
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: 
-    dialogueText: The bubble blushes
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 4247
-      y: 209
       width: 499
       height: 308
     soundEffect: {fileID: 0}
@@ -501,47 +475,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: 17de500a-cea4-4ca4-b86b-3e0c57788fc7
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: Me
-    dialogueText: "Are you sure? You don\u2019t wanna be clean? I\u2019ve been cleaning
-      for 50 odd years and nothing has brought me more joy than seeing a filthy bathroom
-      transform. Sparkling clean. There\u2019s nothing else like it.\r"
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 13490
-      y: -610
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: "You wanna change me. I don\u2019t know if I wanna be changed\u2026
-      I don\u2019t know if I can be\u2026"
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 14009
-      y: -610
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
     characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
     characterName: Me
@@ -640,31 +573,6 @@ MonoBehaviour:
       serializedVersion: 2
       x: 12270
       y: -182
-      width: 1185
-      height: 374
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: Myk
-    dialogueText: "You\u2019re damn right. I\u2019m dirty. I\u2019m a dirty bubble.
-      I ain\u2019t clean, and I don\u2019t wanna be clean."
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - "Are you sure? You don\u2019t wanna be clean? I\u2019ve been cleaning for 50
-      odd years and nothing has brought me more joy than seeing a filthy bathroom
-      transform. Sparkling clean. There\u2019s nothing else like it."
-    - "There\u2019s nothing that gets under my skin like a dirty bathroom. Once I
-      see one, I can\u2019t get it out of my head. Like you. I can\u2019t get you
-      out of my head."
-    nodePosition:
-      serializedVersion: 2
-      x: 10574
-      y: 875
       width: 1185
       height: 374
     soundEffect: {fileID: 0}
@@ -820,14 +728,14 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 14009
-      y: 948
+      x: 13982
+      y: -610
       width: 499
       height: 308
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: b0a59ee6-a463-420e-84ee-219f71e3ff58
+  - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
     characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
     characterName: Myk
     dialogueText: "You wanna change me. I don\u2019t know if I wanna be changed\u2026
@@ -840,8 +748,196 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 14009
-      y: 640
+      x: 13982
+      y: -241
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 2655e334-4054-4e64-8134-a3b389ce9709
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Myk
+    dialogueText: "You\u2019re damn right. I\u2019m dirty. I\u2019m a dirty bubble.
+      I ain\u2019t clean, and I don\u2019t wanna be clean."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "Are you sure? You don\u2019t wanna be clean? I\u2019ve been cleaning for 50
+      odd years and nothing has brought me more joy than seeing a filthy bathroom
+      transform. Sparkling clean. There\u2019s nothing else like it."
+    - "There\u2019s nothing that gets under my skin like a dirty bathroom. Once I
+      see one, I can\u2019t get it out of my head. Like you. I can\u2019t get you
+      out of my head."
+    nodePosition:
+      serializedVersion: 2
+      x: 12206
+      y: 861
+      width: 1185
+      height: 374
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: "I found something in the drain while we were cleaning, and I wasn\u2019t
+      sure if I was going to tell you, but\u2026 Well, you came to me from the drain,
+      and I think it\u2019s just the universe telling me that the time is right."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20558
+      y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: e72402da-f6e4-4640-af16-04d37166f3b3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: You get down on one knee.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21107
+      y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: a44612b9-7515-4c46-a2f7-175719eb663b
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: "Myk, I know we\u2019ve only known each other for 10 minutes or
+      so, but I love you more than I\u2019ve loved anyone else in this world. Will
+      you marry me?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21667
+      y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: cbc71182-529a-429f-983a-e063d5e16caa
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk looks at you tenderly. His eyes are sorrowful. He is sparkling
+      clean and more beautiful than ever.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22216
+      y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: "I\u2019m so sorry. You\u2019ve made me into a whole new bubble.
+      You\u2019ve opened my eyes to the wonders of cleanliness, and for that I will
+      be forever grateful. But\u2026 I\u2019ve outgrown you. I need to float onto
+      new pastures. You understand, don\u2019t you?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22747
+      y: -544
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: The Bubble
+    dialogueText: "Watch where you point that thing! I\u2019m allergic to bleach
+      or somethin\u2019. Guess you could call me a dirty bubble."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - A dirty bubble? I guess I should get back to cleaning.
+    - "Don\u2019t call yourself that! You\u2019re beautiful!"
+    nodePosition:
+      serializedVersion: 2
+      x: 3626
+      y: 143
+      width: 499
+      height: 374
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: You go about your day and clean other bathrooms, never to meet
+      another sentient bubble/fall in love again.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4149
+      y: -129
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: 
+    dialogueText: The bubble blushes
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4149
+      y: 209
       width: 499
       height: 308
     soundEffect: {fileID: 0}
