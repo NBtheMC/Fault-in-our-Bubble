@@ -10,7 +10,9 @@ public class LoseScreen : MonoBehaviour
         if (Input.GetMouseButtonDown(0)){
              Object[] allObjects = FindObjectsOfType(typeof(GameObject),true);
              foreach (GameObject a in allObjects) {
-                a.SetActive(true);
+                if (a.transform.parent == this.transform.parent){
+                    a.SetActive(true);
+                }
              }
             gameObject.SetActive(false);
         }
