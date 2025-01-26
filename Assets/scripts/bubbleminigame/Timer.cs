@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+using VNCreator;
+
 public class Timer : MonoBehaviour
 {
     float timePassed = 0;
 
     public GameObject visualNovel;
+
+    public MinigamePlayer mp;
     void OnEnable()
     {
         StopAllCoroutines();
@@ -15,6 +19,8 @@ public class Timer : MonoBehaviour
         coroutine = winTimer();
         StartCoroutine(coroutine);
         timePassed = 0;
+        Text t = GetComponent(typeof (Text)) as Text;
+        t.text = "Time Left: 20";
     }
 
     private IEnumerator winTimer(){
@@ -26,7 +32,9 @@ public class Timer : MonoBehaviour
         }
 
         this.transform.parent.parent.gameObject.SetActive(false);
-        visualNovel.SetActive(true);
+        //visualNovel.SetActive(true);
+        mp.returnToVN();
+
         Junk[] junk = FindObjectsOfType<Junk>();
         foreach (Junk a in junk) {
             Destroy(a.gameObject);

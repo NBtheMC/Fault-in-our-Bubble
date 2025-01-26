@@ -66,22 +66,16 @@ namespace VNCreator
                 return;
             }
 
-            switch (base.currentNode.nextNodeMinigame)
-            {
-                case NextNodeMinigame.NONE:
-                    base.NextNode(_choiceId);
-                    StartCoroutine(DisplayCurrentNode());
-                    break;
-                case NextNodeMinigame.CLEANING:
-                    // minigamePlayer.PlayCleaning();
-                    // Debug.Log("Minigame controller" + minigameController);
-                    break;
-                case NextNodeMinigame.SAVING:
-                    // minigamePlayer.PlaySaving();
-                    break;
-                default:
-                    break;
+            if (base.currentNode.dialogueText == "Quick! Use your airhorn to save me!"){
+                minigamePlayer.PlaySaving();
+            } else {
+                base.NextNode(_choiceId);
+                StartCoroutine(DisplayCurrentNode());
             }
+        }
+        public void ForceNextNode(int _choiceId){
+            base.NextNode(_choiceId);
+            StartCoroutine(DisplayCurrentNode());
         }
 
         public void BaseSetNextNode(int _choiceId)
@@ -135,11 +129,14 @@ namespace VNCreator
                 }
             }
 
-            if (currentNode.backgroundMusic != null)
-                VNCreator_MusicSource.instance.Play(currentNode.backgroundMusic);
-            if (currentNode.soundEffect != null)
-                VNCreator_SfxSource.instance.Play(currentNode.soundEffect);
-
+            if (currentNode.backgroundMusic != null){
+                musicSource.clip = currentNode.backgroundMusic;
+                musicSource.Play();
+            }
+            if (currentNode.soundEffect != null){
+                soundEffectSource.clip = currentNode.soundEffect;
+                soundEffectSource.Play();
+            }
             dialogueTxt.text = string.Empty;
             if (GameOptions.isInstantText)
             {
