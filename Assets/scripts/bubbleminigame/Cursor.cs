@@ -47,7 +47,8 @@ public class Cursor : MonoBehaviour
 
             Rigidbody2D mikeRB = mike.GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
 
-            mikeRB.AddForce((0.02f/dist)*new Vector2(dir.x,dir.y),ForceMode2D.Impulse);
+            print(Time.deltaTime);
+            mikeRB.AddForce(((14*Time.deltaTime)/dist)*new Vector2(dir.x,dir.y),ForceMode2D.Impulse);
             
         } else {
             if (waveRoutineRunning){
@@ -67,7 +68,7 @@ public class Cursor : MonoBehaviour
             wave w = curWave.GetComponent(typeof(wave)) as wave;
             Vector3 dir = (mike.transform.position - this.transform.position).normalized;
 
-            w.setDir(dir*0.02f);
+            w.setDir(dir);
             yield return new WaitForSeconds(waitTime);
         }
     }

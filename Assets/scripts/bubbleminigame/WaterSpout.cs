@@ -18,8 +18,8 @@ public class WaterSpout : MonoBehaviour
     private IEnumerator scaleUp(){
         while (transform.localScale.y < 18){
             yield return null;
-            transform.localScale = new Vector3(transform.localScale.x,transform.localScale.y + 0.06f,1);
-            transform.position = new Vector3(transform.position.x,transform.position.y + 0.01f,transform.position.z);
+            transform.localScale = new Vector3(transform.localScale.x,transform.localScale.y + (36*Time.deltaTime),1);
+            transform.position = new Vector3(transform.position.x,transform.position.y + (6*Time.deltaTime),transform.position.z);
         }
         transform.localScale = new Vector3(transform.localScale.x,18,1);
 
@@ -33,8 +33,8 @@ public class WaterSpout : MonoBehaviour
         yield return new WaitForSeconds(after);
         while (transform.localScale.y > 0){
             yield return null;
-            transform.localScale = new Vector3(transform.localScale.x,transform.localScale.y - 0.066f,1);
-            transform.position = new Vector3(transform.position.x,transform.position.y - 0.01f,transform.position.z);
+            transform.localScale = new Vector3(transform.localScale.x,transform.localScale.y - (36f*Time.deltaTime),1);
+            transform.position = new Vector3(transform.position.x,transform.position.y - (6*Time.deltaTime),transform.position.z);
         }
         toilet.close();
         Destroy(gameObject);
@@ -49,7 +49,7 @@ public class WaterSpout : MonoBehaviour
             
             Rigidbody2D mikeRB = other.gameObject.GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
 
-            mikeRB.AddForce(0.3f*new Vector2(0,1),ForceMode2D.Impulse);
+            mikeRB.AddForce((15*Time.deltaTime)*new Vector2(0,1),ForceMode2D.Impulse);
         }
     }
 }
