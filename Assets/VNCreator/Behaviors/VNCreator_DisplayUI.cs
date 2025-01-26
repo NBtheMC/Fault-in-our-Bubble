@@ -32,8 +32,12 @@ namespace VNCreator
         [Scene]
         public string mainMenu;
 
+        public MinigameController minigameController;
+
         void Start()
         {
+            Debug.Log("Minigame controller" + minigameController);
+            Debug.Log("Next button" + nextBtn);
             nextBtn.onClick.AddListener(delegate { NextNode(0); });
             if(previousBtn != null)
                 previousBtn.onClick.AddListener(Previous);
@@ -62,24 +66,27 @@ namespace VNCreator
                 return;
             }
 
-            base.NextNode(_choiceId);
-            StartCoroutine(DisplayCurrentNode());
+            switch (base.currentNode.nextNodeMinigame)
+            {
+                case NextNodeMinigame.NONE:
+                    base.NextNode(_choiceId);
+                    StartCoroutine(DisplayCurrentNode());
+                    break;
+                case NextNodeMinigame.CLEANING:
+                    // minigameController.PlayCleaning();
+                    // Debug.Log("Minigame controller" + minigameController);
+                    break;
+                case NextNodeMinigame.SAVING:
+                    // minigameController.PlaySaving();
+                    break;
+                default:
+                    break;
+            }
+        }
 
-            // switch (base.currentNode.nextNodeMinigame)
-            // {
-            //     case NextNodeMinigame.NONE:
-            //         base.NextNode(_choiceId);
-            //         StartCoroutine(DisplayCurrentNode());
-            //         break;
-            //     case NextNodeMinigame.CLEANING:
-            //         PlayCleaningMinigame();
-            //         break;
-            //     case NextNodeMinigame.SAVING:
-            //         PlaySavingMinigame();
-            //         break;
-            //     default:
-            //         break;
-            // }
+        public void BaseSetNextNode(int _choiceId)
+        {
+            base.NextNode(_choiceId);
         }
 
         IEnumerator DisplayCurrentNode()
@@ -149,16 +156,6 @@ namespace VNCreator
                     yield return new WaitForSeconds(0.01f/ GameOptions.readSpeed);
                 }
             }
-        }
-
-        void PlayCleaningMinigame()
-        {
-            return;
-        }
-
-        void PlaySavingMinigame()
-        {
-            return;
         }
 
         protected override void Previous()

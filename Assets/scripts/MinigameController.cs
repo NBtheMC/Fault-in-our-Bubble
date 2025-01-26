@@ -4,6 +4,15 @@ using UnityEngine;
 
 public class MinigameController : MonoBehaviour
 {
+    public void PlayCleaning()
+    {
+        return;
+    }
+
+    public void PlaySaving()
+    {
+        return;
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -15,10 +24,5 @@ public class MinigameController : MonoBehaviour
     void Update()
     {
         
-    }
-
-    void ReturnToStory()
-    {
-
     }
 }

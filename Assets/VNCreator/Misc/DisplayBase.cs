@@ -8,6 +8,7 @@ namespace VNCreator
     public class DisplayBase : MonoBehaviour
     {
         public StoryObject story;
+        public string currentNodeGuid; //used when loading
 
         protected NodeData currentNode;
         protected bool lastNode;
@@ -42,6 +43,7 @@ namespace VNCreator
             if (!lastNode) 
             {
                 currentNode = story.GetNextNode(currentNode.guid, _choiceId);
+                currentNodeGuid = currentNode.guid;
                 lastNode = currentNode.endNode;
                 loadList.Add(currentNode.guid);
             }
