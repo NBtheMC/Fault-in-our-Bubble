@@ -107,65 +107,95 @@ MonoBehaviour:
     targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
     portId: 30
   - guid: ef25d013-4492-42d6-a43e-a09ca8a63b77
-    targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    targetGuid: bb863090-6593-412a-a66a-c3e2e7c8c487
     portId: 31
-  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
-    portId: 32
   - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
     targetGuid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
-    portId: 33
+    portId: 32
   - guid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
     targetGuid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
-    portId: 34
+    portId: 33
   - guid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
     targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    portId: 35
+    portId: 34
   - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
     targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    portId: 36
+    portId: 35
   - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
     targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
-    portId: 37
+    portId: 36
   - guid: e72402da-f6e4-4640-af16-04d37166f3b3
     targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
-    portId: 38
+    portId: 37
   - guid: a44612b9-7515-4c46-a2f7-175719eb663b
     targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
-    portId: 39
+    portId: 38
   - guid: cbc71182-529a-429f-983a-e063d5e16caa
     targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
-    portId: 40
+    portId: 39
   - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
     targetGuid: a1794402-0bff-4def-a421-a53f4c682d78
-    portId: 41
+    portId: 40
   - guid: a1794402-0bff-4def-a421-a53f4c682d78
     targetGuid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
-    portId: 42
+    portId: 41
   - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
     targetGuid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
-    portId: 43
+    portId: 42
   - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
     targetGuid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    portId: 44
+    portId: 43
   - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
     targetGuid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    portId: 45
+    portId: 44
   - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
     targetGuid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    portId: 46
+    portId: 45
   - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
     targetGuid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    portId: 47
+    portId: 46
   - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
     targetGuid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    portId: 48
+    portId: 47
   - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
     targetGuid: cef906f2-e6f0-4307-9476-ac9427bc64a7
-    portId: 49
+    portId: 48
   - guid: b762ec0d-8a8f-48ea-906f-bdec8c8fd5f1
     targetGuid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
+    portId: 49
+  - guid: bb863090-6593-412a-a66a-c3e2e7c8c487
+    targetGuid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
     portId: 50
+  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
+    targetGuid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    portId: 51
+  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    targetGuid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    portId: 52
+  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    targetGuid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    portId: 53
+  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    targetGuid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    portId: 54
+  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    targetGuid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    portId: 55
+  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    targetGuid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    portId: 56
+  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    targetGuid: 11500286-3435-47b0-aebf-2da06b2f2043
+    portId: 57
+  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
+    targetGuid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    portId: 58
+  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    targetGuid: f3b5eb2d-f0dc-4d4f-bf2f-2e23726d9fcc
+    portId: 59
+  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    portId: 60
   nodes:
   - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
@@ -403,25 +433,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: Do you wanna take this elsewhere?
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 16711.334
-      y: -544
-      width: 499.33203
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
     characterName: Myk
@@ -444,26 +455,6 @@ MonoBehaviour:
       y: -182
       width: 1236.667
       height: 368
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Me
-    dialogueText: "I know a filthy Olive Garden bathroom. Let\u2019s clean it\u2026
-      together.\r"
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 17256
-      y: -544
-      width: 499.33398
-      height: 304.6667
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -727,25 +718,6 @@ MonoBehaviour:
     soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: '*censored kiss again*'
-    backgroundSpr: {fileID: 21300000, guid: b5f012705a7f4b54287743ac809ade38, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 20009.334
-      y: -544
-      width: 499.33203
-      height: 304.6667
-    soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
     characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
     characterName: Myk
@@ -986,103 +958,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Myk does not look back. His eyes are closed. In the distance you
-      see something zooming his way. He does not notice it.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 24837.334
-      y: -544.6666
-      width: 499.33203
-      height: 304.66663
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Myk, no! There\u2019s a Pride Go-Go Sport Travel Mobility Scooter
-      barrelling straight for you!"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 25363.334
-      y: -546
-      width: 499.33203
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Oh no, he has his airpods in! He can\u2019t hear me!"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 25897.334
-      y: -545.3333
-      width: 499.33203
-      height: 304.6667
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Myk! Myk! It\u2019s going its top speed of 4.7 miles per hour!\r"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 26415.334
-      y: -544.6666
-      width: 499.33203
-      height: 304.66663
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Myk is brutally hit by the scooter and pops
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 26942.666
-      y: -544.6666
-      width: 499.33398
-      height: 304.66663
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: cef906f2-e6f0-4307-9476-ac9427bc64a7
     characterSpr: {fileID: 0}
     characterName: 
@@ -1117,8 +992,377 @@ MonoBehaviour:
       serializedVersion: 2
       x: 971.3333
       y: 141.33334
-      width: 498.6667
+      width: 499.3333
       height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: '*censored kiss again*'
+    backgroundSpr: {fileID: 21300000, guid: b5f012705a7f4b54287743ac809ade38, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20009.334
+      y: -544
+      width: 499.33203
+      height: 304.6667
+    soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
+    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
+    characterName: Myk
+    dialogueText: Do you wanna take this elsewhere?
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16168.667
+      y: -544
+      width: 499.333
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: "I know a filthy Olive Garden bathroom. Let\u2019s clean it\u2026
+      together.\r"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16713.334
+      y: -544
+      width: 499.33203
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: bb863090-6593-412a-a66a-c3e2e7c8c487
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: Yes! Yes! A million times yes!
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16704
+      y: -950.6666
+      width: 499.33398
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "You gently place the engagement ring you found in the drain on
+      Myk\u2019s head. He is more beautiful than the moment you first laid eyes on
+      him."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17226
+      y: -947.3333
+      width: 499.33398
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: "There\u2019s so much to do! Invitations to send out, cake flavors
+      to taste, venues to contact."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17748.666
+      y: -946.6666
+      width: 499.33398
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: "Ugh\u2026 Don\u2019t feel so good\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18288.666
+      y: -946.6666
+      width: 499.33398
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: "Myk? Myk what\u2019s happening? Are you ok?"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18823.334
+      y: -946
+      width: 499.33203
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: "Ring\u2026 so heavy\u2026 The dirt\u2026 I\u2019m too\u2026 dirty\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19366
+      y: -948
+      width: 499.33398
+      height: 305.33337
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: "Myk, no! You can\u2019t leave me! Not after all we\u2019ve been
+      through together!"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19886.666
+      y: -945.3333
+      width: 499.33398
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    characterSpr: {fileID: 0}
+    characterName: Myk
+    dialogueText: "Farewell\u2026 My sweet prince."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20402
+      y: -946
+      width: 499.33398
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk pops
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20916
+      y: -948.6666
+      width: 499.33398
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: Myk! Nooooo!
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21440
+      y: -947.3333
+      width: 499.33398
+      height: 305.3333
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: f3b5eb2d-f0dc-4d4f-bf2f-2e23726d9fcc
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "You sob over Myk\u2019s remains, a few drops of brownish, stinky
+      water. Your tears mix with his corpse, washing away the dirt you loved so dearly."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21963.334
+      y: -951.3333
+      width: 499.33203
+      height: 305.3333
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk does not look back. His eyes are closed. In the distance you
+      see something zooming his way. He does not notice it.
+    backgroundSpr: {fileID: 21300000, guid: c2584c784d440b94f9cfa4094d436bac, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24837.334
+      y: -544.6666
+      width: 499.33203
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Myk, no! There\u2019s a Pride Go-Go Sport Travel Mobility Scooter
+      barrelling straight for you!"
+    backgroundSpr: {fileID: 21300000, guid: c2584c784d440b94f9cfa4094d436bac, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25363.334
+      y: -546
+      width: 499.33203
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Oh no, he has his airpods in! He can\u2019t hear me!"
+    backgroundSpr: {fileID: 21300000, guid: 21d659bdc02947543b7dcbaa0b8b39f5, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25897.334
+      y: -545.3333
+      width: 499.33203
+      height: 304.6667
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Myk! Myk! It\u2019s going its top speed of 4.7 miles per hour!\r"
+    backgroundSpr: {fileID: 21300000, guid: 21d659bdc02947543b7dcbaa0b8b39f5, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26415.334
+      y: -544.6666
+      width: 499.33203
+      height: 304.66663
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk is brutally hit by the scooter and pops
+    backgroundSpr: {fileID: 21300000, guid: 128d8b03787f5c04b9ff7dd18b86864f, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26942.666
+      y: -544.6666
+      width: 499.33398
+      height: 304.66663
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
