@@ -7,7 +7,9 @@ public class DirtScript : MonoBehaviour
 
     public GameObject stainPrefab;
     public GameObject spongePrefab;
+    public GameObject bgPrefab;
     GameObject mySponge;
+    GameObject myBg;
 
     Texture2D texture;
     Vector3 lastMousePos = new Vector3(0,0,0);
@@ -49,6 +51,7 @@ public class DirtScript : MonoBehaviour
             }
         }
 
+        myBg = Instantiate(bgPrefab);
         mySponge = Instantiate(spongePrefab);
         minigameOver = false;
 
@@ -58,12 +61,13 @@ public class DirtScript : MonoBehaviour
     {
         minigameOver = true;
         Destroy(mySponge);
+        Destroy(bgPrefab);
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        beginMinigame("toilet_mask");
+        //beginMinigame("toilet_mask");
     }
 
     // Update is called once per frame
