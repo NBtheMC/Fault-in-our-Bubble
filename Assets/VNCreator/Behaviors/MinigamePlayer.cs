@@ -15,7 +15,9 @@ namespace VNCreator
 
         public void PlayCleaning()
         {
-            return;
+            VisualNovel.SetActive(false);
+            CleaningMinigame.SetActive(true);
+
         }
 
         public void PlaySaving()

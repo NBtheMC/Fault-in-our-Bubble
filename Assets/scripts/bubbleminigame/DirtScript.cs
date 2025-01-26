@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using VNCreator;
 
 public class DirtScript : MonoBehaviour
 {
@@ -8,18 +9,22 @@ public class DirtScript : MonoBehaviour
     public GameObject stainPrefab;
     public GameObject spongePrefab;
     public GameObject bgPrefab;
+
+    public MinigamePlayer mp;
     GameObject mySponge;
     GameObject myBg;
 
     Texture2D texture;
     Vector3 lastMousePos = new Vector3(0,0,0);
 
-    float minigameTimeSeconds = 60;
+    float minigameTimeSeconds = 30;
     float timeRemaining = 0;
     bool minigameOver = false;
     float scoreToWin = 200;
 
     float score = 20000;
+
+    bool useSpagetti = false;
 
     float getScore()
     {
@@ -31,7 +36,7 @@ public class DirtScript : MonoBehaviour
         return Mathf.Pow((Mathf.Pow(2.71828f, -Mathf.Pow(Mathf.Sqrt((4.0f / 300) * x) - 2, 2) / 2) / Mathf.Sqrt(2 * 3.141592f)) * (1 / .3984f), 2);
     }
 
-    void beginMinigame(string dirt_texture)
+    public void beginMinigame(string dirt_texture)
     {
         texture = Instantiate(Resources.Load<Texture2D>(dirt_texture));
         var sprite = Sprite.Create(texture, new Rect(0, 0, 960, 540), new Vector2(0f, 0f));
@@ -57,11 +62,20 @@ public class DirtScript : MonoBehaviour
 
     }
 
-    void endMinigame()
+
+    public void OnEnable()
+    {
+        beginMinigame(useSpagetti ? "spagetti_mask" : "toilet_mask");
+    }
+    public void endMinigame()
     {
         minigameOver = true;
         Destroy(mySponge);
         Destroy(bgPrefab);
+        useSpagetti = true;
+        this.transform.parent.gameObject.SetActive(false);
+        mp.returnToVN();
+
     }
 
     // Start is called before the first frame update

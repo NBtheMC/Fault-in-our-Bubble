@@ -65,10 +65,17 @@ namespace VNCreator
                 endScreen.SetActive(true);
                 return;
             }
-
-            if (base.currentNode.dialogueText == "Quick! Use your airhorn to save me!"){
+            if (base.currentNode.dialogueText == "Quick! Use your airhorn to save me!")
+            {
                 minigamePlayer.PlaySaving();
-            } else {
+            }
+            else if (base.currentNode.dialogueText == "I know a filthy Olive Garden bathroom. Let’s clean it… together.")
+            {
+                
+                minigamePlayer.PlayCleaning();
+            }
+            else
+            {
                 base.NextNode(_choiceId);
                 StartCoroutine(DisplayCurrentNode());
             }
