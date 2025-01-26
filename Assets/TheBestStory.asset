@@ -14,14 +14,59 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   links:
   - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
-    targetGuid: afab5415-dfd2-4d0b-8342-a3776a6fa638
+    targetGuid: b3040029-f602-4e0d-935f-7618b5f9e192
     portId: 0
+  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
+    targetGuid: 0e1736d6-eba6-4c94-b47b-8b5a656c7c6e
+    portId: 1
+  - guid: 0e1736d6-eba6-4c94-b47b-8b5a656c7c6e
+    targetGuid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
+    portId: 2
+  - guid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
+    targetGuid: 538f39ed-6038-4845-a4fb-16280d1e8797
+    portId: 3
+  - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
+    targetGuid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    portId: 4
+  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
+    portId: 5
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    targetGuid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
+    portId: 6
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    targetGuid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    portId: 7
+  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    targetGuid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
+    portId: 8
+  - guid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
+    targetGuid: f458d647-7741-4ec1-a031-0ea5c878068c
+    portId: 9
+  - guid: f458d647-7741-4ec1-a031-0ea5c878068c
+    targetGuid: cacafe29-de51-4301-b509-a5151d59e5b7
+    portId: 10
+  - guid: cacafe29-de51-4301-b509-a5151d59e5b7
+    targetGuid: 20237973-390f-492c-b724-c900c5b3cf21
+    portId: 11
+  - guid: 20237973-390f-492c-b724-c900c5b3cf21
+    targetGuid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
+    portId: 12
+  - guid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
+    targetGuid: d331f3ec-fb98-46db-88a3-0da14782d9c5
+    portId: 13
+  - guid: d331f3ec-fb98-46db-88a3-0da14782d9c5
+    targetGuid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
+    portId: 14
+  - guid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
+    targetGuid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
+    portId: 15
   nodes:
   - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
     characterSpr: {fileID: 0}
     characterName: 
     dialogueText: 
-    backgroundSpr: {fileID: 0}
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
     startNode: 1
     endNode: 0
     choices: 1
@@ -29,14 +74,133 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 105.333336
-      y: 208.66667
-      width: 499.33334
-      height: 304.6667
+      x: -268.8
+      y: 142.4
+      width: 499.19998
+      height: 304.8
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: afab5415-dfd2-4d0b-8342-a3776a6fa638
+  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: Pop! A bubble emerges from the foul depths of the drain you just
+      scrubbed spotless.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 316.8
+      y: 142.4
+      width: 499.2
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 0e1736d6-eba6-4c94-b47b-8b5a656c7c6e
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Me
+    dialogueText: "In my 50 year janitorial career, I\u2019ve never seen a bubble
+      so\u2026 beautiful. "
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 951.2
+      y: 142.4
+      width: 499.2
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: The Bubble
+    dialogueText: "Yo whaddup, gramps. Whatcha got there? Bleach? You cleanin\u2019
+      or somethin\u2019?"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1552
+      y: 142.4
+      width: 499.19995
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Me
+    dialogueText: You want some?
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2206.4
+      y: 142.4
+      width: 499.2002
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: The bubble dodges your bleach spray bottle. He looks offended.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2804.8
+      y: 142.4
+      width: 499.19995
+      height: 304.8
+    soundEffect: {fileID: 8300000, guid: c571d1f9b0307a340b61aa04c006b453, type: 3}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: The Bubble
+    dialogueText: "Watch where you point that thing! I\u2019m allergic to bleach
+      or somethin\u2019. Guess you could call me a dirty bubble."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - A dirty bubble? I guess I should get back to cleaning.
+    - "Don\u2019t call yourself that! You\u2019re beautiful!"
+    nodePosition:
+      serializedVersion: 2
+      x: 3540.8
+      y: 142.4
+      width: 499.19995
+      height: 370.39996
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
     characterSpr: {fileID: 0}
     characterName: 
     dialogueText: 
@@ -48,10 +212,185 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 641.3333
-      y: 202.66667
-      width: 498.6667
-      height: 304.6667
+      x: 4246.4
+      y: -147.2
+      width: 499.2002
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: 
+    dialogueText: The bubble blushes
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4247.2
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: f458d647-7741-4ec1-a031-0ea5c878068c
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: "I\u2019ll call you whatever you want, cutie\u2026 I mean, Myk.\r\n"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5543.2
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: cacafe29-de51-4301-b509-a5151d59e5b7
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: Suddenly, a gargantuan fart rips through the bathroom. The toilet
+      explodes.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6231.2
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 8300000, guid: 55f6ab663e9030f44a7eabd93eae6a02, type: 3}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 20237973-390f-492c-b724-c900c5b3cf21
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Me
+    dialogueText: '*coughs and gags* Let me turn on the exhaust fan.'
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6847.2
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Myk
+    dialogueText: Nooooooooooooooooooo
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7519.2
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: d331f3ec-fb98-46db-88a3-0da14782d9c5
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: "It\u2019s too late. You have already turned on the exhaust fan,
+      and Myk is floating up uncontrollably, about to face his death at the cruel,
+      unfeeling blades."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8153.6
+      y: 208.8
+      width: 498.3999
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Myk
+    dialogueText: "I better not catch you calling me beautiful again. The name\u2019s
+      Myk. Myk Bubbl\xE9"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4909.6
+      y: 208.8
+      width: 499.1997
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Me
+    dialogueText: Myk! NO!
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8802.4
+      y: 208.8
+      width: 499.19922
+      height: 304.80002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Myk
+    dialogueText: Quick! Use your airhorn to save me!
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9471.2
+      y: 208.8
+      width: 499.2002
+      height: 304.80002
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
