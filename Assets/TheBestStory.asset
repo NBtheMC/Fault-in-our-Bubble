@@ -13,175 +13,136 @@ MonoBehaviour:
   m_Name: TheBestStory
   m_EditorClassIdentifier: 
   links:
-  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
-    targetGuid: b3040029-f602-4e0d-935f-7618b5f9e192
-    portId: 0
-  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
-    targetGuid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
-    portId: 1
   - guid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
     targetGuid: 538f39ed-6038-4845-a4fb-16280d1e8797
-    portId: 2
+    portId: 0
   - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
     targetGuid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
-    portId: 3
-  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
-    targetGuid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
-    portId: 4
-  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
-    targetGuid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
-    portId: 5
-  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
-    targetGuid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
-    portId: 6
+    portId: 1
   - guid: f458d647-7741-4ec1-a031-0ea5c878068c
     targetGuid: cacafe29-de51-4301-b509-a5151d59e5b7
-    portId: 7
+    portId: 2
   - guid: cacafe29-de51-4301-b509-a5151d59e5b7
     targetGuid: 20237973-390f-492c-b724-c900c5b3cf21
-    portId: 8
+    portId: 3
   - guid: 20237973-390f-492c-b724-c900c5b3cf21
     targetGuid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
-    portId: 9
+    portId: 4
   - guid: eae50d0d-3f8a-4b88-9663-9eaae85a6950
     targetGuid: d331f3ec-fb98-46db-88a3-0da14782d9c5
-    portId: 10
+    portId: 5
   - guid: d331f3ec-fb98-46db-88a3-0da14782d9c5
     targetGuid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
-    portId: 11
+    portId: 6
   - guid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
     targetGuid: f458d647-7741-4ec1-a031-0ea5c878068c
-    portId: 12
+    portId: 7
   - guid: 25d98fd2-77e5-483f-a176-f1bc17fc24c4
     targetGuid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
-    portId: 13
+    portId: 8
   - guid: 2d043e79-0522-435c-ba2c-6b76c4d945d9
     targetGuid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
-    portId: 14
-  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
-    targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
-    portId: 15
+    portId: 9
   - guid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
     targetGuid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
-    portId: 16
+    portId: 10
   - guid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
     targetGuid: 2655e334-4054-4e64-8134-a3b389ce9709
-    portId: 17
+    portId: 11
   - guid: 4aee916e-ae7d-4ec1-87e6-f989152abc90
     targetGuid: c761436f-0647-477d-9829-4043c5e66319
-    portId: 18
+    portId: 12
   - guid: c761436f-0647-477d-9829-4043c5e66319
     targetGuid: 6f42f9ba-6fc1-4ed8-883c-54717521044e
-    portId: 19
+    portId: 13
   - guid: 6f42f9ba-6fc1-4ed8-883c-54717521044e
     targetGuid: 9296edc7-b236-4090-8a90-8f7ec7066088
-    portId: 20
+    portId: 14
   - guid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
     targetGuid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
-    portId: 21
+    portId: 15
   - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
     targetGuid: 354baf9d-034a-450f-a364-3cbbe4fc1782
-    portId: 22
+    portId: 16
   - guid: 0888f277-b67d-4ebe-87dd-f1d917ddd434
     targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    portId: 23
+    portId: 17
   - guid: 354baf9d-034a-450f-a364-3cbbe4fc1782
     targetGuid: ef25d013-4492-42d6-a43e-a09ca8a63b77
-    portId: 24
+    portId: 18
   - guid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
     targetGuid: c693e354-bd08-4da2-94c5-f355564d6c2a
-    portId: 25
+    portId: 19
   - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
     targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 26
+    portId: 20
   - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
     targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    portId: 27
+    portId: 21
   - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
     targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
-    portId: 28
+    portId: 22
   - guid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
     targetGuid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
-    portId: 29
+    portId: 23
   - guid: 3f6457c1-81f2-4138-8c77-51ac27066dd7
     targetGuid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
-    portId: 30
+    portId: 24
   - guid: ef25d013-4492-42d6-a43e-a09ca8a63b77
     targetGuid: cef79cb1-1838-44bc-9636-4a3b7b0a430b
-    portId: 31
+    portId: 25
   - guid: 0ca1bccf-79cb-42db-9991-cbeb48a43e30
     targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    portId: 32
+    portId: 26
   - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
     targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    portId: 33
+    portId: 27
   - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
     targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
-    portId: 34
+    portId: 28
   - guid: aca7f52d-03db-4495-b12b-b9f105eb0dba
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 35
+    portId: 29
   - guid: ce483399-8b40-4d6e-bf58-96ea50034c88
     targetGuid: 49a2dc5d-ac95-4509-9703-41f3e7fafbff
-    portId: 36
+    portId: 30
   - guid: 2655e334-4054-4e64-8134-a3b389ce9709
     targetGuid: aca7f52d-03db-4495-b12b-b9f105eb0dba
-    portId: 37
+    portId: 31
   - guid: 2655e334-4054-4e64-8134-a3b389ce9709
     targetGuid: ce483399-8b40-4d6e-bf58-96ea50034c88
-    portId: 38
+    portId: 32
   - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
     targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
-    portId: 39
+    portId: 33
   - guid: e72402da-f6e4-4640-af16-04d37166f3b3
     targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
-    portId: 40
+    portId: 34
   - guid: a44612b9-7515-4c46-a2f7-175719eb663b
     targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
-    portId: 41
+    portId: 35
   - guid: cbc71182-529a-429f-983a-e063d5e16caa
     targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    portId: 36
+  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
+    targetGuid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
+    portId: 37
+  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
+    targetGuid: b3040029-f602-4e0d-935f-7618b5f9e192
+    portId: 38
+  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    targetGuid: 90d96313-fa85-408f-8f2a-292579fb8887
+    portId: 39
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    targetGuid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
+    portId: 40
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    targetGuid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    portId: 41
+  - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
+    targetGuid: d199fdca-bfbb-4f8f-b234-89fa9dc51d03
     portId: 42
   nodes:
-  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 1
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -269
-      y: 142
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: 
-    dialogueText: Pop! A bubble emerges from the foul depths of the drain you just
-      scrubbed spotless.
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 317
-      y: 142
-      width: 499
-      height: 308
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 4a187cf5-c225-4332-b2a6-0fa70df0818e
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
     characterName: The Bubble
@@ -375,25 +336,6 @@ MonoBehaviour:
       width: 499
       height: 308
     soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: 
-    dialogueText: The bubble dodges your bleach spray bottle. He looks offended.
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 2805
-      y: 142
-      width: 499
-      height: 308
-    soundEffect: {fileID: 8300000, guid: c571d1f9b0307a340b61aa04c006b453, type: 3}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
   - guid: d1e4e4e0-9c46-44f7-bedb-7872a102f90c
@@ -883,27 +825,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: The Bubble
-    dialogueText: "Watch where you point that thing! I\u2019m allergic to bleach
-      or somethin\u2019. Guess you could call me a dirty bubble."
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - A dirty bubble? I guess I should get back to cleaning.
-    - "Don\u2019t call yourself that! You\u2019re beautiful!"
-    nodePosition:
-      serializedVersion: 2
-      x: 3626
-      y: 143
-      width: 499
-      height: 374
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
     characterName: 
@@ -922,6 +843,85 @@ MonoBehaviour:
       width: 499
       height: 308
     soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: b3040029-f602-4e0d-935f-7618b5f9e192
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: Pop! A bubble emerges from the foul depths of the drain you just
+      scrubbed spotless.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 317
+      y: 142
+      width: 499
+      height: 308
+    soundEffect: {fileID: 8300000, guid: 1f6a16ccb394fba4db5abcf198ddf36d, type: 3}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fbd1eca7-8274-4175-ad7d-bf61069117d9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -269
+      y: 142
+      width: 499
+      height: 308
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 79b8edd6bedddb04a921353fd87a115f, type: 3}
+    nextNodeMinigame: 0
+  - guid: 1bd7fbb4-86f3-4aee-8204-53bc7b4882ff
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: 
+    dialogueText: The bubble dodges your bleach spray bottle. He looks offended.
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2805
+      y: 142
+      width: 499
+      height: 308
+    soundEffect: {fileID: 8300000, guid: c571d1f9b0307a340b61aa04c006b453, type: 3}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 90d96313-fa85-408f-8f2a-292579fb8887
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: The Bubble
+    dialogueText: "Watch where you point that thing! I\u2019m allergic to bleach
+      or somethin\u2019. Guess you could call me a dirty bubble."
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - A dirty bubble? I guess I should get back to cleaning.
+    - "Don\u2019t call yourself that! You\u2019re beautiful!"
+    nodePosition:
+      serializedVersion: 2
+      x: 3626
+      y: 143
+      width: 499
+      height: 374
+    soundEffect: {fileID: 8300000, guid: c571d1f9b0307a340b61aa04c006b453, type: 3}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
   - guid: 7d03084f-1b30-4fa4-9433-c86e94b15c9f
