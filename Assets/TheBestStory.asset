@@ -202,8 +202,8 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: 01e4aa06-6d1d-43ac-aefe-24e7ffa7eb6a
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
+    characterName: Test1
+    dialogueText: Test1
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 1

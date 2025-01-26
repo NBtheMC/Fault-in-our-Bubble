@@ -72,6 +72,15 @@ namespace VNCreator
                 }
             );
 
+            IntegerField minigameField = this.Query<IntegerField>("Minigame_Field");
+            minigameField.value = (int)node.nodeData.nextNodeMinigame;
+            minigameField.RegisterValueChangedCallback (
+                e =>
+                {
+                    node.nodeData.nextNodeMinigame = (NextNodeMinigame) e.newValue;
+                }
+            );
+
             ObjectField sfxField = this.Query<ObjectField>("Sound_Field").First();
             sfxField.objectType = typeof(AudioClip);
             sfxField.value = node.nodeData.soundEffect;
