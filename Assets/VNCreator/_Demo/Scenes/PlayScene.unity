@@ -485,6 +485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   story: {fileID: 11400000, guid: 6e453dfdc36779946a624c56b0e210e2, type: 2}
+  currentNodeGuid: 
   characterNameTxt: {fileID: 2053690587}
   dialogueTxt: {fileID: 1236659805}
   characterImg: {fileID: 1548648291}
@@ -500,6 +501,7 @@ MonoBehaviour:
   choiceBtn3: {fileID: 1883126466}
   endScreen: {fileID: 1928461400}
   mainMenu: Assets/Scenes/menu.unity
+  minigamePlayer: {fileID: 741778645}
 --- !u!4 &265086993
 Transform:
   m_ObjectHideFlags: 0
@@ -1703,6 +1705,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 672824050}
   m_CullTransparentMesh: 1
+--- !u!1 &741778644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 741778646}
+  - component: {fileID: 741778645}
+  m_Layer: 0
+  m_Name: MinigamePlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &741778645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741778644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84e491769d55be4da67c2a3a364beac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CleaningMinigame: {fileID: 0}
+  SavingMinigame: {fileID: 1181339763}
+--- !u!4 &741778646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741778644}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 220.73969, y: 145.06012, z: -28.408707}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &786957164
 GameObject:
   m_ObjectHideFlags: 0
@@ -1801,49 +1848,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &827682098
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 827682100}
-  - component: {fileID: 827682099}
-  m_Layer: 0
-  m_Name: MinigameController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &827682099
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827682098}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a628832159965946b0b767ff10c5371, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &827682100
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827682098}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 320.686, y: 159.82756, z: -11.926639}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &861069038
 GameObject:
   m_ObjectHideFlags: 0
@@ -2613,7 +2617,7 @@ Transform:
   - {fileID: 306684867}
   - {fileID: 1675480887}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1184627037
 GameObject:
@@ -2647,7 +2651,7 @@ Transform:
   - {fileID: 1342611896}
   - {fileID: 265086993}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1236659802
 GameObject:
