@@ -232,6 +232,27 @@ MonoBehaviour:
   - guid: 8188d39a-b103-4eac-89bc-06723c427988
     targetGuid: d4223508-278a-4745-9c34-6ba42d2d4c10
     portId: 72
+  - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
+    targetGuid: 39c60845-b237-43d7-8645-5da9a2e9512c
+    portId: 73
+  - guid: 39c60845-b237-43d7-8645-5da9a2e9512c
+    targetGuid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
+    portId: 74
+  - guid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
+    targetGuid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
+    portId: 75
+  - guid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
+    targetGuid: e928b222-b771-4ae6-8873-95b9c8a33917
+    portId: 76
+  - guid: e928b222-b771-4ae6-8873-95b9c8a33917
+    targetGuid: f8fb292c-8033-4a67-a658-dd7a69e70efc
+    portId: 77
+  - guid: f8fb292c-8033-4a67-a658-dd7a69e70efc
+    targetGuid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
+    portId: 78
+  - guid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
+    targetGuid: bad3ce45-02a4-44eb-b10e-99c3e7595ccb
+    portId: 79
   nodes:
   - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
@@ -952,7 +973,7 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
     characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: 
+    characterName: Myk
     dialogueText: We sure did clean that bathroom.
     backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
     startNode: 0
@@ -1459,25 +1480,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: cef906f2-e6f0-4307-9476-ac9427bc64a7
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Myk nooooooooooo!
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 1
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 30296.8
-      y: -490.40002
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
     characterSpr: {fileID: 0}
     characterName: 
@@ -1629,6 +1631,160 @@ MonoBehaviour:
       y: -898.4
       width: 499.19922
       height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: cef906f2-e6f0-4307-9476-ac9427bc64a7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Myk nooooooooooo!
+    backgroundSpr: {fileID: 21300000, guid: 128d8b03787f5c04b9ff7dd18b86864f, type: 3}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 30296.8
+      y: -490.40002
+      width: 499.19922
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: bad3ce45-02a4-44eb-b10e-99c3e7595ccb
+    characterSpr: {fileID: 21300000, guid: 16555380150178d4787031ed9d852d0e, type: 3}
+    characterName: 
+    dialogueText: "You sob over Myk\u2019s remains, a few drops of brownish water.
+      Tears mix with his corpse, washing away the dirt you loved so dearly."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 30692
+      y: -890.4
+      width: 499.19922
+      height: 304.8
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
+    characterSpr: {fileID: 21300000, guid: 16555380150178d4787031ed9d852d0e, type: 3}
+    characterName: Me
+    dialogueText: Myk! Nooooo!
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 30103.2
+      y: -890.4
+      width: 499.20117
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: f8fb292c-8033-4a67-a658-dd7a69e70efc
+    characterSpr: {fileID: 21300000, guid: 16555380150178d4787031ed9d852d0e, type: 3}
+    characterName: 
+    dialogueText: Myk pops
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 29487.2
+      y: -900
+      width: 499.20117
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 39c60845-b237-43d7-8645-5da9a2e9512c
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Me
+    dialogueText: "Myk? Myk what\u2019s happening? Are you ok?"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27136
+      y: -901.60004
+      width: 499.19922
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Myk
+    dialogueText: "Ring\u2026 so heavy\u2026 The dirt\u2026 I\u2019m too\u2026 dirty\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27712.8
+      y: -902.4
+      width: 499.19922
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Me
+    dialogueText: " Myk, no! You can\u2019t leave me! Not after all we\u2019ve been
+      through together!"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 28309.6
+      y: -894.4
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: e928b222-b771-4ae6-8873-95b9c8a33917
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Myk
+    dialogueText: " Farewell\u2026 My sweet prince."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 28897.6
+      y: -891.2
+      width: 499.20117
+      height: 304.8
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
