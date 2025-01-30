@@ -499,12 +499,10 @@ MonoBehaviour:
     endNode: 0
     choices: 2
     choiceOptions:
-    - "Are you sure? You don\u2019t wanna be clean? I\u2019ve been cleaning for 50
-      odd years and nothing has brought me more joy than seeing a filthy bathroom
-      transform. Sparkling clean. There\u2019s nothing else like it."
+    - "You don\u2019t wanna be clean? I\u2019ve been cleaning for 50 odd years and
+      nothing has brought me more joy than seeing a filthy bathroom transform."
     - "There\u2019s nothing that gets under my skin like a dirty bathroom. Once I
-      see one, I can\u2019t get it out of my head. Like you. I can\u2019t get you
-      out of my head."
+      see one, I can\u2019t get it out of my head. Just like you."
     nodePosition:
       serializedVersion: 2
       x: 12270.4
@@ -1202,8 +1200,8 @@ MonoBehaviour:
       y: -915.2
       width: 499.19922
       height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
+    soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
     nextNodeMinigame: 0
   - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
     characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
@@ -1286,7 +1284,7 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: 11500286-3435-47b0-aebf-2da06b2f2043
     characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Myk
+    characterName: Me
     dialogueText: "but\u2026 Well, you came to me from the drain, and I think it\u2019s
       just the universe telling me that the time is right."
     backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
@@ -1598,7 +1596,7 @@ MonoBehaviour:
   - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
     characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
     characterName: Myk
-    dialogueText: "Myk: Ugh\u2026 Don\u2019t feel so good\u2026"
+    dialogueText: "Ugh\u2026 Don\u2019t feel so good\u2026"
     backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
     startNode: 0
     endNode: 0
