@@ -124,135 +124,138 @@ MonoBehaviour:
   - guid: bb863090-6593-412a-a66a-c3e2e7c8c487
     targetGuid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
     portId: 36
-  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
-    targetGuid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
-    portId: 37
-  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
-    targetGuid: 27932698-275b-42f3-a54b-0fc8d3caeba5
-    portId: 38
-  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
-    targetGuid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
-    portId: 39
-  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
-    targetGuid: 9c3efc31-611b-4e98-b0c8-b502459bc803
-    portId: 40
-  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
-    targetGuid: 354a94eb-3738-4271-bf05-3bbc914d8d47
-    portId: 41
-  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
-    targetGuid: 11500286-3435-47b0-aebf-2da06b2f2043
-    portId: 42
-  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
-    targetGuid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
-    portId: 43
-  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
-    targetGuid: fffe2d9a-9ab4-4938-aca5-893a03b31173
-    portId: 44
-  - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
-    targetGuid: 14065f23-09a9-409c-ad6b-7aa12466de7a
-    portId: 45
-  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
-    portId: 46
-  - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
-    portId: 47
   - guid: bc7d6ebf-d4a6-4ede-b4fa-f91fd2b0be4a
     targetGuid: 1820da2b-1097-4f2b-864e-55506fd27aca
-    portId: 48
-  - guid: e72402da-f6e4-4640-af16-04d37166f3b3
-    targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
-    portId: 49
-  - guid: 14065f23-09a9-409c-ad6b-7aa12466de7a
-    targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
-    portId: 50
-  - guid: a44612b9-7515-4c46-a2f7-175719eb663b
-    targetGuid: 4be32205-25f1-4dc0-b8de-6aa92027cd2c
-    portId: 51
-  - guid: cbc71182-529a-429f-983a-e063d5e16caa
-    targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
-    portId: 52
-  - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
-    targetGuid: 10b06c3d-cd4c-4484-b208-5c58f38acfa9
-    portId: 53
-  - guid: a1794402-0bff-4def-a421-a53f4c682d78
-    targetGuid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
-    portId: 54
-  - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
-    targetGuid: a1794402-0bff-4def-a421-a53f4c682d78
-    portId: 55
-  - guid: 4be32205-25f1-4dc0-b8de-6aa92027cd2c
-    targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
-    portId: 56
-  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    targetGuid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    portId: 57
-  - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
-    targetGuid: e6965ceb-5fd1-43ae-80e2-263db0691de5
-    portId: 58
-  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
-    targetGuid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    portId: 59
-  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
-    targetGuid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    portId: 60
-  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
-    targetGuid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    portId: 61
-  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
-    targetGuid: cef906f2-e6f0-4307-9476-ac9427bc64a7
-    portId: 62
-  - guid: 10b06c3d-cd4c-4484-b208-5c58f38acfa9
-    targetGuid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
-    portId: 63
-  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
-    targetGuid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
-    portId: 64
+    portId: 37
   - guid: c693e354-bd08-4da2-94c5-f355564d6c2a
     targetGuid: 7b504d0f-30d3-484e-8686-6b7ba13a8eac
-    portId: 65
+    portId: 38
   - guid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
     targetGuid: 008ae2ea-58c3-480d-8068-00b8f27b6494
-    portId: 66
+    portId: 39
+  - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
+    targetGuid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    portId: 40
+  - guid: ea6c921a-610c-4f46-8f0d-0a8d0e213b75
+    targetGuid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    portId: 41
+  - guid: aa96864d-11ab-48a8-a661-0b9163b160eb
+    targetGuid: 14065f23-09a9-409c-ad6b-7aa12466de7a
+    portId: 42
+  - guid: 14065f23-09a9-409c-ad6b-7aa12466de7a
+    targetGuid: e72402da-f6e4-4640-af16-04d37166f3b3
+    portId: 43
+  - guid: e72402da-f6e4-4640-af16-04d37166f3b3
+    targetGuid: a44612b9-7515-4c46-a2f7-175719eb663b
+    portId: 44
+  - guid: a44612b9-7515-4c46-a2f7-175719eb663b
+    targetGuid: 4be32205-25f1-4dc0-b8de-6aa92027cd2c
+    portId: 45
+  - guid: 4be32205-25f1-4dc0-b8de-6aa92027cd2c
+    targetGuid: cbc71182-529a-429f-983a-e063d5e16caa
+    portId: 46
+  - guid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    targetGuid: a1794402-0bff-4def-a421-a53f4c682d78
+    portId: 47
+  - guid: cbc71182-529a-429f-983a-e063d5e16caa
+    targetGuid: 66a3c469-582a-4bed-8f83-ea9bfcaf907d
+    portId: 48
+  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    targetGuid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    portId: 49
+  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    targetGuid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    portId: 50
+  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    targetGuid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    portId: 51
+  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    targetGuid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    portId: 52
+  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    targetGuid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    portId: 53
+  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    targetGuid: 11500286-3435-47b0-aebf-2da06b2f2043
+    portId: 54
+  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
+    targetGuid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    portId: 55
+  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    targetGuid: fffe2d9a-9ab4-4938-aca5-893a03b31173
+    portId: 56
   - guid: fffe2d9a-9ab4-4938-aca5-893a03b31173
     targetGuid: 4dcd01cf-518c-4a31-93ff-a16aa809ca73
-    portId: 67
+    portId: 57
   - guid: 4dcd01cf-518c-4a31-93ff-a16aa809ca73
     targetGuid: caf169a2-30e3-440b-a654-21ee68e9f278
-    portId: 68
+    portId: 58
   - guid: caf169a2-30e3-440b-a654-21ee68e9f278
     targetGuid: 78a1cd3b-d915-4724-a73b-d8806c8ab880
-    portId: 69
+    portId: 59
   - guid: 78a1cd3b-d915-4724-a73b-d8806c8ab880
     targetGuid: f1da1c73-3f87-431a-a31f-13ed7a9265f0
-    portId: 70
+    portId: 60
+  - guid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
+    targetGuid: 10b06c3d-cd4c-4484-b208-5c58f38acfa9
+    portId: 61
+  - guid: a1794402-0bff-4def-a421-a53f4c682d78
+    targetGuid: 17c7a340-40d5-4f6d-a09c-d84c388fe8d2
+    portId: 62
+  - guid: e6965ceb-5fd1-43ae-80e2-263db0691de5
+    targetGuid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
+    portId: 63
+  - guid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
+    targetGuid: e6965ceb-5fd1-43ae-80e2-263db0691de5
+    portId: 64
+  - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
+    targetGuid: b64793a0-2b9c-4f58-82bd-798807a4a80a
+    portId: 65
+  - guid: b64793a0-2b9c-4f58-82bd-798807a4a80a
+    targetGuid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
+    portId: 66
+  - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
+    targetGuid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
+    portId: 67
+  - guid: 61f89f9a-e401-4ff5-bdbd-047ae6596389
+    targetGuid: cef906f2-e6f0-4307-9476-ac9427bc64a7
+    portId: 68
+  - guid: 10b06c3d-cd4c-4484-b208-5c58f38acfa9
+    targetGuid: d41b115d-1a8b-4e42-ab82-ddf3b176734e
+    portId: 69
   - guid: f1da1c73-3f87-431a-a31f-13ed7a9265f0
     targetGuid: 8188d39a-b103-4eac-89bc-06723c427988
+    portId: 70
+  - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
+    targetGuid: 39c60845-b237-43d7-8645-5da9a2e9512c
     portId: 71
   - guid: 8188d39a-b103-4eac-89bc-06723c427988
     targetGuid: d4223508-278a-4745-9c34-6ba42d2d4c10
     portId: 72
-  - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
-    targetGuid: 39c60845-b237-43d7-8645-5da9a2e9512c
-    portId: 73
-  - guid: 39c60845-b237-43d7-8645-5da9a2e9512c
-    targetGuid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
-    portId: 74
-  - guid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
-    targetGuid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
-    portId: 75
-  - guid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
-    targetGuid: e928b222-b771-4ae6-8873-95b9c8a33917
-    portId: 76
-  - guid: e928b222-b771-4ae6-8873-95b9c8a33917
-    targetGuid: f8fb292c-8033-4a67-a658-dd7a69e70efc
-    portId: 77
-  - guid: f8fb292c-8033-4a67-a658-dd7a69e70efc
-    targetGuid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
-    portId: 78
   - guid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
     targetGuid: bad3ce45-02a4-44eb-b10e-99c3e7595ccb
+    portId: 73
+  - guid: f8fb292c-8033-4a67-a658-dd7a69e70efc
+    targetGuid: fa2edcf8-79f9-4245-bb0b-e2079f6e4257
+    portId: 74
+  - guid: 39c60845-b237-43d7-8645-5da9a2e9512c
+    targetGuid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
+    portId: 75
+  - guid: 490846ab-f3f1-4d7f-8f1c-373ab2bf01b6
+    targetGuid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
+    portId: 76
+  - guid: fb5fd563-fb90-452a-838c-2eca8f16fbc0
+    targetGuid: e928b222-b771-4ae6-8873-95b9c8a33917
+    portId: 77
+  - guid: e928b222-b771-4ae6-8873-95b9c8a33917
+    targetGuid: f8fb292c-8033-4a67-a658-dd7a69e70efc
+    portId: 78
+  - guid: 75cb7a68-fbee-4a44-9429-fe77923ad2bf
+    targetGuid: 30a447c0-950b-4708-b980-f57239a14687
     portId: 79
+  - guid: 30a447c0-950b-4708-b980-f57239a14687
+    targetGuid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
+    portId: 80
   nodes:
   - guid: 538f39ed-6038-4845-a4fb-16280d1e8797
     characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
@@ -486,29 +489,6 @@ MonoBehaviour:
       y: -951.2
       width: 499.19922
       height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
-    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
-    characterName: Myk
-    dialogueText: "In case you haven\u2019t noticed, I\u2019m dirty. I\u2019m a dirty
-      bubble. I ain\u2019t clean, and I don\u2019t wanna be clean.\r"
-    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - "You don\u2019t wanna be clean? I\u2019ve been cleaning for 50 odd years and
-      nothing has brought me more joy than seeing a filthy bathroom transform."
-    - "There\u2019s nothing that gets under my skin like a dirty bathroom. Once I
-      see one, I can\u2019t get it out of my head. Just like you."
-    nodePosition:
-      serializedVersion: 2
-      x: 12270.4
-      y: -181.59999
-      width: 1223.1992
-      height: 370.4
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -969,25 +949,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: We sure did clean that bathroom.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 17936
-      y: -949.60004
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: 1820da2b-1097-4f2b-864e-55506fd27aca
     characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
     characterName: Myk
@@ -1002,8 +963,8 @@ MonoBehaviour:
       serializedVersion: 2
       x: 20154.4
       y: -480
-      width: 498.4004
-      height: 304.8
+      width: 499.19922
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1041,7 +1002,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 21213.6
       y: -478.40002
-      width: 498.4004
+      width: 499.20117
       height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
@@ -1061,8 +1022,8 @@ MonoBehaviour:
       serializedVersion: 2
       x: 21763.2
       y: -467.2
-      width: 498.4004
-      height: 304.8
+      width: 499.20117
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1120,7 +1081,7 @@ MonoBehaviour:
       x: 23476
       y: -501.6
       width: 499.19922
-      height: 304.8
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1140,7 +1101,7 @@ MonoBehaviour:
       x: 24751.2
       y: -513.6
       width: 499.20117
-      height: 304.8
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1161,241 +1122,6 @@ MonoBehaviour:
       y: -502.40002
       width: 499.20117
       height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
-    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
-    characterName: Myk
-    dialogueText: "That was the most romantic thing I\u2019ve done in\u2026 well,
-      ever. Myk, you truly are something else."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 18544.8
-      y: -915.2
-      width: 498.39844
-      height: 304.8
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
-    characterSpr: {fileID: 0}
-    characterName: Me
-    dialogueText: '*censored kiss again*'
-    backgroundSpr: {fileID: 21300000, guid: b5f012705a7f4b54287743ac809ade38, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 20680
-      y: -915.2
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
-    backgroundMusic: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
-    nextNodeMinigame: 0
-  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Myk
-    dialogueText: "You know, it\u2019s all thanks to you, darling. I didn\u2019t
-      wanna admit it earlier, but you really did save my life back there. I need
-      you."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 19082.4
-      y: -916.8
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Myk
-    dialogueText: " We go together like\u2026"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 19619.2
-      y: -952
-      width: 498.4004
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Myk
-    dialogueText: Like ammonia and bleach.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 20160
-      y: -916.8
-      width: 499.19922
-      height: 304.8
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Me
-    dialogueText: "I found something in the drain while we were cleaning, and I wasn\u2019t
-      sure if I was going to tell you,"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 21196
-      y: -916
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Me
-    dialogueText: "but\u2026 Well, you came to me from the drain, and I think it\u2019s
-      just the universe telling me that the time is right."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 21707.2
-      y: -919.2
-      width: 498.4004
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: 
-    dialogueText: You get down on one knee.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 22233.6
-      y: -917.60004
-      width: 499.20117
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: fffe2d9a-9ab4-4938-aca5-893a03b31173
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Me
-    dialogueText: "Myk, I know we\u2019ve only known each other for 10 minutes or
-      so, but I love you more than I\u2019ve loved anyone else in this world."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 22826.4
-      y: -916.8
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 4dcd01cf-518c-4a31-93ff-a16aa809ca73
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Me
-    dialogueText: Will you marry me?
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 23445.6
-      y: -899.2
-      width: 498.4004
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: caf169a2-30e3-440b-a654-21ee68e9f278
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: Myk
-    dialogueText: Yes! Yes! A million times yes!
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 24092.8
-      y: -903.2
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 78a1cd3b-d915-4724-a73b-d8806c8ab880
-    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
-    characterName: 
-    dialogueText: "You gently place the engagement ring you found in the drain on
-      Myk\u2019s head."
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 24696
-      y: -904
-      width: 499.19922
-      height: 304.8
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1480,7 +1206,7 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: 263ef2dd-9a55-400f-a5ea-8785daf92e6b
     characterSpr: {fileID: 0}
-    characterName: 
+    characterName: Me
     dialogueText: "Myk, no! There\u2019s a Pride Go-Go Sport Travel Mobility Scooter
       barrelling straight for you!"
     backgroundSpr: {fileID: 21300000, guid: c2584c784d440b94f9cfa4094d436bac, type: 3}
@@ -1519,7 +1245,7 @@ MonoBehaviour:
     nextNodeMinigame: 0
   - guid: 5ec13c93-112d-49b0-8b40-d0a736f15cc0
     characterSpr: {fileID: 0}
-    characterName: 
+    characterName: Me
     dialogueText: "Myk! Myk! It\u2019s going its top speed of 4.7 miles per hour!\r"
     backgroundSpr: {fileID: 21300000, guid: 21d659bdc02947543b7dcbaa0b8b39f5, type: 3}
     startNode: 0
@@ -1574,64 +1300,6 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
-  - guid: f1da1c73-3f87-431a-a31f-13ed7a9265f0
-    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
-    characterName: 
-    dialogueText: He is more beautiful than the moment you first laid eyes on him.
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 25328.8
-      y: -906.4
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
-    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
-    characterName: Myk
-    dialogueText: "Ugh\u2026 Don\u2019t feel so good\u2026"
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 26531.2
-      y: -898.4
-      width: 499.20117
-      height: 304.8
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
-  - guid: 8188d39a-b103-4eac-89bc-06723c427988
-    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
-    characterName: Myk
-    dialogueText: "There\u2019s so much to do! Invitations to send out, cake flavors
-      to taste, venues to contact. "
-    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 25946.4
-      y: -898.4
-      width: 499.19922
-      height: 304
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-    nextNodeMinigame: 0
   - guid: cef906f2-e6f0-4307-9476-ac9427bc64a7
     characterSpr: {fileID: 0}
     characterName: 
@@ -1651,6 +1319,322 @@ MonoBehaviour:
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
+  - guid: 9296edc7-b236-4090-8a90-8f7ec7066088
+    characterSpr: {fileID: 21300000, guid: aca61a7f022ba8f4f92e1f3c3c6afdcb, type: 3}
+    characterName: Myk
+    dialogueText: "In case you haven\u2019t noticed, I\u2019m dirty. I\u2019m a dirty
+      bubble. I ain\u2019t clean, and I don\u2019t wanna be clean.\r"
+    backgroundSpr: {fileID: 21300000, guid: 3b9f475fc42cdc24a86da1de50e0ac14, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "You don\u2019t wanna be clean? I\u2019ve been cleaning for 50 odd years and
+      nothing has brought me more joy than seeing a filthy bathroom transform."
+    - "There\u2019s nothing that gets under my skin like a dirty bathroom. Once I
+      see one, I can\u2019t get it out of my head. Just like you."
+    nodePosition:
+      serializedVersion: 2
+      x: 12261.6
+      y: -180.8
+      width: 888.8008
+      height: 370.40002
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 51ce5cfb-81a6-4cde-88e1-d3a0cb7039c1
+    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
+    characterName: Myk
+    dialogueText: We sure did clean that bathroom.
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18526.4
+      y: -949.60004
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 008ae2ea-58c3-480d-8068-00b8f27b6494
+    characterSpr: {fileID: 21300000, guid: 501471f44299c2e4cb2edb9f9d412526, type: 3}
+    characterName: Myk
+    dialogueText: "That was the most romantic thing I\u2019ve done in\u2026 well,
+      ever. Myk, you truly are something else."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19135.2
+      y: -915.2
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fe992e5b-2aa2-4fe3-b4ee-e8b1b2871a50
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Myk
+    dialogueText: "You know, it\u2019s all thanks to you, darling. I didn\u2019t
+      wanna admit it earlier, but you really did save my life back there. I need
+      you."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19672.8
+      y: -916.8
+      width: 498.39844
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 27932698-275b-42f3-a54b-0fc8d3caeba5
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Myk
+    dialogueText: " We go together like\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20209.6
+      y: -952
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 9eef32af-9f38-4863-bbab-d4d8b6bfd491
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Myk
+    dialogueText: Like ammonia and bleach.
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20750.4
+      y: -916.8
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 354a94eb-3738-4271-bf05-3bbc914d8d47
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: "I found something in the drain while we were cleaning, and I wasn\u2019t
+      sure if I was going to tell you,"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21786.4
+      y: -916
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 11500286-3435-47b0-aebf-2da06b2f2043
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: "but\u2026 Well, you came to me from the drain, and I think it\u2019s
+      just the universe telling me that the time is right."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22297.6
+      y: -919.2
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: a704223e-1bc7-49c8-87ad-5cf667b30ee9
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: 
+    dialogueText: You get down on one knee.
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22824
+      y: -917.60004
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: fffe2d9a-9ab4-4938-aca5-893a03b31173
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: "Myk, I know we\u2019ve only known each other for 10 minutes or
+      so, but I love you more than I\u2019ve loved anyone else in this world."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23416.8
+      y: -916.8
+      width: 498.39844
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 4dcd01cf-518c-4a31-93ff-a16aa809ca73
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Me
+    dialogueText: Will you marry me?
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24036
+      y: -899.2
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: caf169a2-30e3-440b-a654-21ee68e9f278
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: Myk
+    dialogueText: Yes! Yes! A million times yes!
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24683.2
+      y: -903.2
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 78a1cd3b-d915-4724-a73b-d8806c8ab880
+    characterSpr: {fileID: 21300000, guid: a49b9b8602bef5741b21566fcd8e2113, type: 3}
+    characterName: 
+    dialogueText: "You gently place the engagement ring you found in the drain on
+      Myk\u2019s head."
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25286.4
+      y: -904
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: f1da1c73-3f87-431a-a31f-13ed7a9265f0
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: 
+    dialogueText: He is more beautiful than the moment you first laid eyes on him.
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25919.2
+      y: -906.4
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: d4223508-278a-4745-9c34-6ba42d2d4c10
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Myk
+    dialogueText: "Ugh\u2026 Don\u2019t feel so good\u2026"
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27121.6
+      y: -898.4
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 8188d39a-b103-4eac-89bc-06723c427988
+    characterSpr: {fileID: 21300000, guid: 59a013d335d38af4c91264421fe77744, type: 3}
+    characterName: Myk
+    dialogueText: "There\u2019s so much to do! Invitations to send out, cake flavors
+      to taste, venues to contact. "
+    backgroundSpr: {fileID: 21300000, guid: 985f574ce43305e4aa72f7a0bb9ce6c1, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26536.8
+      y: -898.4
+      width: 498.39844
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
   - guid: bad3ce45-02a4-44eb-b10e-99c3e7595ccb
     characterSpr: {fileID: 21300000, guid: 16555380150178d4787031ed9d852d0e, type: 3}
     characterName: 
@@ -1664,10 +1648,10 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 30692
+      x: 31282.4
       y: -890.4
-      width: 499.19922
-      height: 304.8
+      width: 498.4004
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
@@ -1683,9 +1667,9 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 30103.2
+      x: 30693.6
       y: -890.4
-      width: 499.20117
+      width: 498.4004
       height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
@@ -1702,9 +1686,9 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 29487.2
+      x: 30077.6
       y: -900
-      width: 499.20117
+      width: 498.4004
       height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
@@ -1721,9 +1705,9 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 27136
+      x: 27726.4
       y: -901.60004
-      width: 499.19922
+      width: 498.4004
       height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
@@ -1740,9 +1724,9 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 27712.8
+      x: 28303.2
       y: -902.4
-      width: 499.19922
+      width: 498.4004
       height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
@@ -1760,7 +1744,7 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 28309.6
+      x: 28900
       y: -894.4
       width: 498.4004
       height: 304
@@ -1779,10 +1763,48 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 28897.6
+      x: 29488
       y: -891.2
-      width: 499.20117
-      height: 304.8
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+    nextNodeMinigame: 0
+  - guid: 9c3efc31-611b-4e98-b0c8-b502459bc803
+    characterSpr: {fileID: 0}
+    characterName: Me
+    dialogueText: '*censored kiss again*'
+    backgroundSpr: {fileID: 21300000, guid: b5f012705a7f4b54287743ac809ade38, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21270.4
+      y: -913.60004
+      width: 498.4004
+      height: 304
+    soundEffect: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: 59d4d0b8306b0864c9f338d122942246, type: 3}
+    nextNodeMinigame: 0
+  - guid: 30a447c0-950b-4708-b980-f57239a14687
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Intense cleaning  *In Italian*
+    backgroundSpr: {fileID: 21300000, guid: b5f012705a7f4b54287743ac809ade38, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17856.8
+      y: -939.2
+      width: 499.19922
+      height: 304
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
     nextNodeMinigame: 0
